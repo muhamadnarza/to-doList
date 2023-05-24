@@ -36,7 +36,6 @@ form button {
     background: white;
     border-radius: 3rem;
     margin-left: 0.5rem;
-    
 }
 
 form button {
@@ -142,15 +141,15 @@ select {
     cursor: pointer;
     padding: 1rem;
 } 
-/* select {
+select {
     color:rgb(255, 200, 0);
-    width: 10rem;
+    width: 12rem;
     height: 3rem;
     cursor: pointer;
     padding: 1rem;
-} */
+} 
 
-/* select::after {
+select::after {
     content: "\25BC";
     position: absolute;
     background:rgb(255, 200, 0);
@@ -161,7 +160,7 @@ select {
 select::hover::after {
     background: white;
     color: rgb(255, 200, 0);
-}  */
+} 
 .footer{
     padding: 1rem;
     display: flex;
